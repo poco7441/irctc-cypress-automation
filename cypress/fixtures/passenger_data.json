@@ -2,7 +2,7 @@
   "TRAIN_NO": "12051",
   "TRAIN_COACH": "2S",
   "TRAVEL_DATE": "25/01/2025",
-  "SOURCE_STATION": "PNVL",
+  "SOURCE_STATION": "L",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "RN",
   "TATKAL": true,
@@ -10,7 +10,7 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Ruaiz",
+      "NAME": "",
       "AGE": 24,
       "GENDER": "Male",
       "SEAT": "Window Side",
